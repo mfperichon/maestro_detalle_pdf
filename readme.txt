@@ -1,0 +1,1 @@
+Maestro-Detalle Ejemplo practico para comprender el funcionamiento de un maestro/detalle en php utilizando sesiones para almacenar los datos a lo largo del proceso, hasta el momento de guardarlos en la base.
